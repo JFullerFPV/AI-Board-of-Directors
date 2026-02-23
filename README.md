@@ -17,14 +17,14 @@ By leveraging a hybrid AI architecture, the script delegates specific analytical
 
 ---
 ## Example Output:
-==================================================
+
 FINAL EXECUTIVE SUMMARY (CEO)
-==================================================
-### Executive Summary: The Pizza Compass Proposal
+
+## Executive Summary: The Pizza Compass Proposal
 
 The Pizza Compass is a unique concept designed to point users to the nearest pizza restaurants, combining modern technology with a playful, nostalgic appeal. The idea has garnered interest from our Board of Directors, with both opportunities and challenges identified in the evaluations.
 
-#### Combined Feedback from the Board
+## Combined Feedback from the Board
 
 **Technology Feasibility:**
 The technology behind the Pizza Compass is technically feasible, but it presents several critical challenges:
