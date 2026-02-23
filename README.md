@@ -18,7 +18,7 @@ By leveraging a hybrid AI architecture, the script delegates specific analytical
 ---
 ## Example Output:
 
-FINAL EXECUTIVE SUMMARY (CEO)
+Input Prompt: The pizza compass. It is a compass that points to the nearest pizza restraunt.
 
 ## Executive Summary: The Pizza Compass Proposal
 
