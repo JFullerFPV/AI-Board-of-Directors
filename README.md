@@ -16,6 +16,58 @@ By leveraging a hybrid AI architecture, the script delegates specific analytical
 - **Dry Run Mode:** Includes a built-in dry run functionality (`--dry-run`) to test the application's logic and token routing without making any actual API calls or waiting for model inference.
 
 ---
+## Example Output:
+==================================================
+FINAL EXECUTIVE SUMMARY (CEO)
+==================================================
+### Executive Summary: The Pizza Compass Proposal
+
+The Pizza Compass is a unique concept designed to point users to the nearest pizza restaurants, combining modern technology with a playful, nostalgic appeal. The idea has garnered interest from our Board of Directors, with both opportunities and challenges identified in the evaluations.
+
+#### Combined Feedback from the Board
+
+**Technology Feasibility:**
+The technology behind the Pizza Compass is technically feasible, but it presents several critical challenges:
+- **Hardware:** GPS accuracy in urban environments may be compromised, requiring hybrid positioning solutions (Wi-Fi, BLE) that add complexity. Power management is crucial to ensure usability without frequent recharging.
+- **Software:** A robust software architecture is needed to handle real-time data processing and geofencing. The integration of a global database for pizza restaurants poses a significant development challenge.
+
+**Financial Viability:**
+The financial analysis indicates a strong market opportunity for both B2C and B2B segments. Potential revenue streams include hardware sales, subscription models, partnerships with pizza chains, and data monetization. Initial investment estimates range from $300K to $900K, with projected revenues potentially reaching $40M by Year 3.
+
+**Marketing Strategy:**
+The marketing plan emphasizes a playful, gamified experience, targeting pizza lovers and tech enthusiasts. A phased go-to-market strategy involves leveraging influencer partnerships, crowdfunding, and localized promotions to create buzz. Potential user engagement through social media and community challenges could drive adoption.
+
+**General Considerations:**
+While the idea is whimsical and engaging, concerns about practicality, market saturation, and privacy must be addressed. The product needs to offer tangible benefits beyond novelty to ensure user retention and satisfaction.
+
+### Go/No-Go Decision: Go
+
+**Final Decision:** The Pizza Compass will proceed to the prototype phase. The combination of technological feasibility, potential market demand, and strong financial projections support the decision to move forward, albeit with caution regarding the highlighted risks.
+
+### Immediate Next Steps
+
+1. **Prototype Development:**
+   - Initiate a prototype using a Raspberry Pi or ESP32 with GPS capabilities to test hardware feasibility and user experience.
+   - Focus on developing the positioning algorithm and battery management solutions.
+
+2. **Partnership Outreach:**
+   - Begin discussions with potential partners in the pizza industry, including local pizzerias and larger chains like Domino's and Pizza Hut, to establish initial collaborations.
+
+3. **Market Research:**
+   - Conduct surveys and focus groups with target demographics to validate features and identify additional user needs.
+   - Explore potential crowdfunding platforms and prepare a campaign strategy to gauge market interest.
+
+4. **Software Development Planning:**
+   - Assemble a dedicated team for software architecture, focusing on building a robust backend that supports real-time updates and geospatial queries.
+   - Outline the requirements for the mobile app, considering user permissions and ease of use.
+
+5. **Marketing Strategy Refinement:**
+   - Develop a comprehensive marketing plan, including potential viral campaigns, influencer partnerships, and community engagement strategies.
+   - Create branding materials to establish a visual identity and messaging framework before the official launch.
+
+By following these steps, we aim to optimize the Pizza Compass concept for market entry and ensure its success in a competitive landscape.
+
+---
 
 ## 🧰 Tech Stack
 
